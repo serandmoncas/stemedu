@@ -15,5 +15,6 @@ Documentación del arranque del proyecto en [`docs/`](docs/):
 - [`docs/SEGURIDAD-PILOTO.md`](docs/SEGURIDAD-PILOTO.md) — ratio instructor:estudiante, protocolo de soldadura y borrador de waiver.
 - [`docs/FIGURA-LEGAL-PILOTO.md`](docs/FIGURA-LEGAL-PILOTO.md) — recomendación de figura legal/tributaria para cobrar el piloto.
 - [`docs/AGENDA-Y-EVALUACION-PILOTO.md`](docs/AGENDA-Y-EVALUACION-PILOTO.md) — agenda minuto a minuto de las 6 horas presenciales, momento de personalización y evaluación de aprendizaje.
+- [`docs/INVESTIGACION-MERCADO.md`](docs/INVESTIGACION-MERCADO.md) — competencia (SENA, makerspaces públicos, UNAL, EAFIT) y precios de referencia en Medellín.
 - [`docs/TRANSCRIPCION-2026-06-30.md`](docs/TRANSCRIPCION-2026-06-30.md) — transcripción fuente de la llamada fundacional.
 
