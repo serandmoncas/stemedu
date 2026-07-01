@@ -12,5 +12,7 @@ Documentación del arranque del proyecto en [`docs/`](docs/):
 - [`docs/PLAN-DE-ACCION.md`](docs/PLAN-DE-ACCION.md) — decisión de fondo y registro narrativo de decisiones.
 - [`docs/BACKLOG.md`](docs/BACKLOG.md) — backlog de tareas con descripción, prioridad, responsable y precedentes (documento vivo).
 - [`docs/REVISION-EXPERTOS-2026-07-01.md`](docs/REVISION-EXPERTOS-2026-07-01.md) — revisión de negocio, pedagogía, marketing, legal y hardware/seguridad.
+- [`docs/SEGURIDAD-PILOTO.md`](docs/SEGURIDAD-PILOTO.md) — ratio instructor:estudiante, protocolo de soldadura y borrador de waiver.
+- [`docs/FIGURA-LEGAL-PILOTO.md`](docs/FIGURA-LEGAL-PILOTO.md) — recomendación de figura legal/tributaria para cobrar el piloto.
 - [`docs/TRANSCRIPCION-2026-06-30.md`](docs/TRANSCRIPCION-2026-06-30.md) — transcripción fuente de la llamada fundacional.
 
