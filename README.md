@@ -8,6 +8,9 @@ Documentación del arranque del proyecto en [`docs/`](docs/):
 - [`docs/PERSONAS.md`](docs/PERSONAS.md) — quién está involucrado y qué aporta cada quien.
 - [`docs/IDEAS-DE-PRODUCTO.md`](docs/IDEAS-DE-PRODUCTO.md) — catálogo crudo de proyectos/cursos posibles.
 - [`docs/MODELO-DE-NEGOCIO.md`](docs/MODELO-DE-NEGOCIO.md) — segmentos, precios de referencia, estrategia de canal, MVP.
-- [`docs/PLAN-DE-ACCION.md`](docs/PLAN-DE-ACCION.md) — próximos pasos y preguntas abiertas (documento vivo).
+- [`docs/PRESUPUESTO-PILOTO.md`](docs/PRESUPUESTO-PILOTO.md) — definición cerrada del piloto (proyecto, público, espacio, precio) y su presupuesto detallado.
+- [`docs/PLAN-DE-ACCION.md`](docs/PLAN-DE-ACCION.md) — decisión de fondo y registro narrativo de decisiones.
+- [`docs/BACKLOG.md`](docs/BACKLOG.md) — backlog de tareas con descripción, prioridad, responsable y precedentes (documento vivo).
+- [`docs/REVISION-EXPERTOS-2026-07-01.md`](docs/REVISION-EXPERTOS-2026-07-01.md) — revisión de negocio, pedagogía, marketing, legal y hardware/seguridad.
 - [`docs/TRANSCRIPCION-2026-06-30.md`](docs/TRANSCRIPCION-2026-06-30.md) — transcripción fuente de la llamada fundacional.
 
