@@ -1,6 +1,21 @@
 # Contenido técnico del piloto (borrador)
 
-> Borrador para T-053, T-037 y T-038 en [[BACKLOG]]. Revisar y ajustar antes de usar con participantes reales — el firmware en particular hay que probarlo en hardware real antes del taller, no confiar en que compile a la primera.
+> Borrador para T-053, T-037, T-038 y T-008 en [[BACKLOG]]. Revisar y ajustar antes de usar con participantes reales — el firmware en particular hay que probarlo en hardware real antes del taller, no confiar en que compile a la primera.
+
+## Temario del contenido virtual — 2 horas, aula invertida (T-008)
+
+> Se graba antes del piloto, se envía a los inscritos junto con la encuesta previa (T-037). Diseñado para que quien lo vea completo llegue listo para soldar de una vez (Grupo A de [[AGENDA-Y-EVALUACION-PILOTO]]), y para que instalar el entorno *antes* de venir sea inevitable, no opcional (hallazgo de hardware #4 en [[REVISION-EXPERTOS-2026-07-01]]).
+
+| Módulo | Duración aprox. | Contenido |
+|---|---|---|
+| 1. Bienvenida y qué vas a construir | 10 min | Mostrar la lámpara terminada funcionando (genera expectativa), explicar el formato del día presencial |
+| 2. Qué es un microcontrolador y por qué el ESP32 | 20 min | La misma narrativa de la llamada fundadora: Arduino → Raspberry Pi → ESP32, por qué es barato y accesible — ver [[CONTEXTO]] |
+| 3. Instalación del entorno — **acción obligatoria antes del día presencial** | 30 min | Paso a paso: instalar Arduino IDE, agregar soporte para ESP32, instalar drivers USB (CP2102/CH340 según el modelo), instalar la librería FastLED. Cerrar con una prueba de "blink" simple para confirmar que todo quedó bien instalado |
+| 4. Introducción a la soldadura (teoría, no práctica) | 20 min | Qué es soldar, por qué se usa estaño con plomo en este taller, principios básicos de seguridad — la práctica real es presencial (ver [[SEGURIDAD-PILOTO]]), aquí solo se familiarizan con el vocabulario y pierden el miedo inicial |
+| 5. Electrónica básica del proyecto | 25 min | Qué hace cada componente del kit (ESP32, matriz LED, fuente, resistencia, capacitor) — sin esto, el checklist de evaluación ("puede explicar qué hace el regulador") es imposible de cumplir el mismo día |
+| 6. Programar con ayuda de IA | 15 min | Demo corta de cómo pedirle a una IA que modifique una animación (cambiar color, velocidad, patrón) — prepara el terreno para el bloque de personalización presencial |
+
+**Cierre del módulo 3 (instalación)**: pedir explícitamente que envíen una captura de pantalla del "blink" funcionando antes del taller — es la única forma de saber de verdad quién completó esa parte, más allá de lo que responda en la encuesta (T-037).
 
 ## Alcance del piloto — versión formal (T-038)
 

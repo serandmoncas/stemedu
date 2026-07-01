@@ -16,8 +16,8 @@ Documentación del arranque del proyecto en [`docs/`](docs/):
 - [`docs/FIGURA-LEGAL-PILOTO.md`](docs/FIGURA-LEGAL-PILOTO.md) — recomendación de figura legal/tributaria para cobrar el piloto.
 - [`docs/AGENDA-Y-EVALUACION-PILOTO.md`](docs/AGENDA-Y-EVALUACION-PILOTO.md) — agenda minuto a minuto de las 6 horas presenciales, momento de personalización y evaluación de aprendizaje.
 - [`docs/INVESTIGACION-MERCADO.md`](docs/INVESTIGACION-MERCADO.md) — competencia (SENA, makerspaces públicos, UNAL, EAFIT) y precios de referencia en Medellín.
-- [`docs/MARCA-Y-VENTA.md`](docs/MARCA-Y-VENTA.md) — opciones de nombre/marca, guion del video de venta, y plantillas de respuesta para Alejandra.
-- [`docs/CONTENIDO-TECNICO-PILOTO.md`](docs/CONTENIDO-TECNICO-PILOTO.md) — alcance formal del piloto, encuesta previa a inscritos, y firmware de respaldo (ESP32 + FastLED).
+- [`docs/MARCA-Y-VENTA.md`](docs/MARCA-Y-VENTA.md) — nombre/marca, mensaje de invitación, guion del video, copy de landing, flujo de venta digital y presupuesto de pauta.
+- [`docs/CONTENIDO-TECNICO-PILOTO.md`](docs/CONTENIDO-TECNICO-PILOTO.md) — temario del contenido virtual, alcance formal del piloto, encuesta previa, y firmware de respaldo (ESP32 + FastLED).
 - [`docs/NUMEROS-Y-OUTREACH.md`](docs/NUMEROS-Y-OUTREACH.md) — criterio de éxito del piloto, seguro de responsabilidad civil, y mensajes de outreach a EAFIT y al círculo cercano.
 - [`docs/TRANSCRIPCION-2026-06-30.md`](docs/TRANSCRIPCION-2026-06-30.md) — transcripción fuente de la llamada fundacional.
 
